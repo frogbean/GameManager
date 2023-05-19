@@ -1,0 +1,2 @@
+For a game called TotalA.exe put your AutoHotKey files in a folder called TotalA
+For another game, do the same, like SpaceEngineers.exe your files need to be in a folder name the same as the .exe, without the .exe of course

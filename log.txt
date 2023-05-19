@@ -1,0 +1,102 @@
+	[TAM 6 03:16:33]	TotalA detected
+	[TAM 6 03:16:33]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:16:33]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:16:33]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:16:41]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:16:41]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:16:41]	closing autohotkey's
+	[TAM 6 03:23:12]	TotalA detected
+	[TAM 6 03:23:12]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:23:12]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:23:12]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:23:13]	closing: explorer
+	[TAM 6 03:23:18]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:23:18]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:23:18]	Restarting apps
+	[TAM 6 03:23:18]	closing autohotkey's
+	[TAM 6 03:30:54]	TotalA detected
+	[TAM 6 03:30:54]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:30:54]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:30:54]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:30:55]	closing: explorer
+	[TAM 6 03:31:01]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:31:01]	Changing volume from 30 too 29.9999982118607
+	[TAM 6 03:31:01]	Restarting apps
+	[TAM 6 03:31:01]	closing autohotkey's
+	[TAM 6 03:32:40]	TotalA detected
+	[TAM 6 03:32:40]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:32:40]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:32:40]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:32:41]	closing: explorer
+	[TAM 6 03:32:46]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:32:46]	Changing volume from 30 too 29.9999982118607
+	[TAM 6 03:32:46]	Restarting apps
+	[TAM 6 03:32:46]	closing autohotkey's
+	[TAM 6 03:33:28]	TotalA detected
+	[TAM 6 03:33:28]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:33:28]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:33:29]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:33:29]	closing: explorer
+	[TAM 6 03:33:35]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:33:35]	Changing volume from 0 too 0
+	[TAM 6 03:33:35]	Restarting apps
+	[TAM 6 03:33:35]	closing autohotkey's
+	[TAM 6 03:35:04]	TotalA detected
+	[TAM 6 03:35:04]	Changing volume from 0.3 too 0.3
+	[TAM 6 03:35:04]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:35:05]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:35:05]	closing: explorer
+	[TAM 6 03:35:10]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:35:10]	Changing volume from 0 too 0
+	[TAM 6 03:35:10]	Restarting apps
+	[TAM 6 03:35:11]	closing autohotkey's
+	[TAM 6 03:36:38]	TotalA detected
+	[TAM 6 03:36:39]	Changing volume from 0 too 0
+	[TAM 6 03:36:39]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:36:39]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:36:39]	closing: explorer
+	[TAM 6 03:36:45]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:36:45]	Changing volume from 0 too 0
+	[TAM 6 03:36:45]	Restarting apps
+	[TAM 6 03:36:45]	closing autohotkey's
+	[TAM 6 03:37:46]	TotalA detected
+	[TAM 6 03:37:46]	Changing volume from 0 too 0
+	[TAM 6 03:37:46]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:37:46]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:37:47]	closing: explorer
+	[TAM 6 03:37:53]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:37:53]	Changing volume from 0 too 0
+	[TAM 6 03:37:53]	Restarting apps
+	[TAM 6 03:37:53]	closing autohotkey's
+	[TAM 6 03:41:34]	TotalA detected
+	[TAM 6 03:41:35]	Changing volume from 30 too 30
+	[TAM 6 03:41:35]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:41:35]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:41:35]	closing: explorer
+	[TAM 6 03:41:41]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:41:41]	Changing volume from 30 too 30
+	[TAM 6 03:41:41]	Restarting apps
+	[TAM 6 03:41:41]	closing autohotkey's
+	[TAM 6 03:44:18]	TotalA detected
+	[TAM 6 03:44:19]	Changing volume from 30% too 30%
+	[TAM 6 03:44:19]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:44:19]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:44:19]	closing: explorer
+	[TAM 6 03:44:25]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:44:25]	Changing volume from 30% too 30%
+	[TAM 6 03:44:26]	Restarting apps
+	[TAM 6 03:44:26]	closing autohotkey's
+	[TAM 6 03:44:37]	TotalA detected
+	[TAM 6 03:44:37]	Changing volume from 50% too 30%
+	[TAM 6 03:44:37]	starting script: menuMouseSwitch.ahk
+	[TAM 6 03:44:37]	Setting high prorirty on TotalA.exe!
+	[TAM 6 03:44:37]	closing: explorer
+	[TAM 6 03:44:42]	TotalA.exe closed, Tidying Up!
+	[TAM 6 03:44:42]	Changing volume from 30% too 50%
+	[TAM 6 03:44:42]	Restarting apps
+	[TAM 6 03:44:43]	closing autohotkey's
+	[TAM 6 03:47:27]	Killed an ad handler for GameRanger!
+	[TAM 6 03:47:28]	Killed an ad handler for GameRanger!
+	[TAM 6 03:47:29]	Killed an ad handler for GameRanger!
+	[TAM 6 03:56:14]	TotalA detected
+	[TAM 6 03:56:22]	TotalA.exe closed, Tidying Up!
