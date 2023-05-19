@@ -1,8 +1,0 @@
-TA Manager script
-
-Made by Zombean#6280
-
-run start.bat to launch (:
-
-PM me on discord if you have any questions, there is a readme file in the rebinds folder if you have autohotkey scripts you want to run.
-
