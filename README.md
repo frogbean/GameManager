@@ -17,6 +17,7 @@ The game manager uses two text files to manage applications and games: `applicat
 For example:
 
 Discord
+
 Firefox
 
 vbnet
