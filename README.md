@@ -30,6 +30,8 @@ Similarly, `games.txt` should contain the names of game `.exe` files.
 
 If you use AutoHotKey scripts for certain games, you can place those scripts in the `ahk` folder. The game manager will look for a subfolder that matches the name of the game (as listed in `games.txt`). If it finds a matching `.ahk` file, it will run the script while the game is running and stop the script when the game closes.
 
+it supports multiple ahk's per game and might also not conflict with pre-existing scripts running
+
 ## Additional Features
 
 The game manager has several additional features:
